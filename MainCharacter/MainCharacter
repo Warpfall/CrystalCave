@@ -1,9 +1,10 @@
-Done: 3D Modeling, comes out to 55K with Teeth, 25K without
-    All modifiers are still on such as Mirror, Subdiv (keeping everything at 1 subdiv lvl), and Solidify (which is only needed for some of the parts) 
-      Except for Vest Edit which needed a non-symmetrical model
+Done: 3D Modeling, comes out to 29K without
+   Modifiers for most objects are still on such as Mirror, Subdiv (keeping everything at 1 subdiv lvl)
+      Solidify (which is only needed for some of the parts) are applied for the leg plates/straps
+      Subdiv level 1 applied for hands, Secondary Subdiv lvl 1 is still in the modifiers tab (for a total of 2 subdiv levels)
 
 Need to be Done:
-  Hair System
+  UV Wrapping
   Texturing
   Rigging 
   Animation
