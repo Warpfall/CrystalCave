@@ -1,1 +1,9 @@
+Done: 3D Modeling, comes out to 55K with Teeth, 25K without
+    All modifiers are still on such as Mirror, Subdiv (keeping everything at 1 subdiv lvl), and Solidify (which is only needed for some of the parts) 
+      Except for Vest Edit which needed a non-symmetrical model
 
+Need to be Done:
+  Hair System
+  Texturing
+  Rigging 
+  Animation
